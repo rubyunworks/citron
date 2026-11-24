@@ -1,5 +1,10 @@
 # Citron
 
+> **This project is retired.** Citron is part of
+> [Spectrum](https://github.com/rubyworks/spectrum) since version 0.2:
+> `require 'spectrum/testcase'`. The gem remains on RubyGems and the code remains
+> here for reference.
+
 [Website](http://rubyworks.github.com/citron) /
 [Report Issue](http://github.com/rubyworks/citron/issues) /
 [IRC Channel](irc://chat.us.freenode.net/rubyworks) /
